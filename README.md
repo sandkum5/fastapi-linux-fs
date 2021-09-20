@@ -1,7 +1,7 @@
 # fastapi-linux-fs
-Display Linux Filesystem Directory / File Contents using FastAPI Interface
+Display Linux Filesystem Directory / File Contents using REST API. 
 
-This is my first demo using FastAPI library. 
+This is my first REST API demo using FastAPI library. 
 
 ### Requirements
 pip install fastapi[all]
